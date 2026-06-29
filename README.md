@@ -152,23 +152,23 @@ Traditional fitness apps rely on **manual input** — users must count their own
 
 ### Dashboard
 
-![Dashboard](<img width="1917" height="868" alt="Screenshot 2026-06-29 165911" src="https://github.com/user-attachments/assets/a8741af2-cf2c-47b4-89b2-39ad57327dfe" />
-)
+![Dashboard]<img width="1917" height="868" alt="Screenshot 2026-06-29 165911" src="https://github.com/user-attachments/assets/a8741af2-cf2c-47b4-89b2-39ad57327dfe" />
+
 
 ### AI Squat Trainer
 
-![AI Trainer](<img width="1912" height="865" alt="Screenshot 2026-06-29 170005" src="https://github.com/user-attachments/assets/6bac6e55-0950-4ae5-9896-d7e574daf8f1" />
-)
+![AI Trainer]<img width="1912" height="865" alt="Screenshot 2026-06-29 170005" src="https://github.com/user-attachments/assets/6bac6e55-0950-4ae5-9896-d7e574daf8f1" />
+
 
 ### AI Pose Analyzer
 
-![Pose Analyzer](<img width="1916" height="871" alt="Screenshot 2026-06-29 170153" src="https://github.com/user-attachments/assets/bfb0a460-a1f5-4efb-8a4c-4444594491ee" />
-)
+![Pose Analyzer]<img width="1916" height="871" alt="Screenshot 2026-06-29 170153" src="https://github.com/user-attachments/assets/bfb0a460-a1f5-4efb-8a4c-4444594491ee" />
+
 
 ### AI Diet Coach & BMI Calculator
 
-![Diet Coach](<img width="1917" height="872" alt="Screenshot 2026-06-29 170025" src="https://github.com/user-attachments/assets/a4beccc0-44d0-4d2a-8c17-814e31f11688" />
-)
+![Diet Coach]<img width="1917" height="872" alt="Screenshot 2026-06-29 170025" src="https://github.com/user-attachments/assets/a4beccc0-44d0-4d2a-8c17-814e31f11688" />
+
 ### AI Fitness Chatbot
 
 ![Chatbot]<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/1ef81680-391c-4fae-a0ce-dd5dec58c805" />
@@ -176,13 +176,13 @@ Traditional fitness apps rely on **manual input** — users must count their own
 
 ### Habit Tracker
 
-![Habit Tracker](<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/fae3e31c-893b-46bb-b673-137d80fe5de4" />
-)
+![Habit Tracker]<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/fae3e31c-893b-46bb-b673-137d80fe5de4" />
+
 
 ### Profile Management
 
-![Profile Modal](<img width="1900" height="857" alt="Screenshot 2026-06-29 165854" src="https://github.com/user-attachments/assets/838b877a-203d-4a91-ae9d-d11a65bdd10a" />
-)
+![Profile Modal]<img width="1900" height="857" alt="Screenshot 2026-06-29 165854" src="https://github.com/user-attachments/assets/838b877a-203d-4a91-ae9d-d11a65bdd10a" />
+
 
 ---
 
