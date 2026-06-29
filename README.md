@@ -3,6 +3,13 @@
 **AI Fitness Coach** is an AI-powered personal fitness and wellness platform that continuously tracks workout form using computer vision, generates personalized nutrition plans, provides real-time AI coaching, and delivers actionable health insights — all through a premium dark-themed enterprise dashboard.
 
 ---
+## 🎯 Problem Statement
+
+Traditional fitness apps rely on **manual input** — users must count their own reps, guess their form quality, and follow generic meal plans. There is no real-time verification of whether an exercise is performed correctly, leading to injuries and ineffective training.
+
+**AI Fitness Coach** solves this by combining **computer vision** for autonomous exercise tracking with **generative AI** for personalized coaching — creating an intelligent fitness companion that watches, corrects, plans, and motivates.
+
+---
 
 ## 🚀 Features
 
@@ -113,13 +120,6 @@ ai-fitness-coach/
 └── README.md
 ```
 
----
-
-## 🎯 Problem Statement
-
-Traditional fitness apps rely on **manual input** — users must count their own reps, guess their form quality, and follow generic meal plans. There is no real-time verification of whether an exercise is performed correctly, leading to injuries and ineffective training.
-
-**AI Fitness Coach** solves this by combining **computer vision** for autonomous exercise tracking with **generative AI** for personalized coaching — creating an intelligent fitness companion that watches, corrects, plans, and motivates.
 
 ---
 
