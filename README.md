@@ -184,7 +184,8 @@ ai-fitness-coach/
 
 ### Habit Tracker
 
-![Habit Tracker]<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/fae3e31c-893b-46bb-b673-137d80fe5de4" />
+<img width="1917" height="838" alt="Screenshot 2026-06-29 170043" src="https://github.com/user-attachments/assets/7e9ab5f6-15e6-4f2b-b683-2e8f40c7b81d" />
+
 
 
 ### Profile Management
