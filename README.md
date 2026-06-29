@@ -6,16 +6,16 @@
 
 ## 🚀 Features
 
-- 👤 Real-time Pose Estimation & Skeletal Tracking
-- 🏋️ Automatic Squat Rep Counter with Form Grading
-- 🧠 AI-powered Fitness Chatbot (Google Gemini LLM)
-- 🥗 Personalized Diet & Meal Plan Generator
-- 📊 Dynamic Weekly Activity Charts with AI Insights
-- 📉 BMI Calculator with Health Classification
-- ✅ Daily Habit Tracker & Consistency Scoring
-- 💪 Workout Logging & History Management
-- 🔒 User Authentication & Profile Management
-- 📱 Fully Responsive Glassmorphic UI
+-  Real-time Pose Estimation & Skeletal Tracking
+-  Automatic Squat Rep Counter with Form Grading
+-  AI-powered Fitness Chatbot (Google Gemini LLM)
+-  Personalized Diet & Meal Plan Generator
+-  Dynamic Weekly Activity Charts with AI Insights
+-  BMI Calculator with Health Classification
+-  Daily Habit Tracker & Consistency Scoring
+-  Workout Logging & History Management
+-  User Authentication & Profile Management
+-  Fully Responsive Glassmorphic UI
 
 ---
 
@@ -125,58 +125,64 @@ Traditional fitness apps rely on **manual input** — users must count their own
 
 ## 💡 Key Highlights
 
-- 🤖 **Autonomous AI Fitness Agent** — Tracks, counts, and grades exercises without manual input
-- 👁️ **Real-time Computer Vision** — MediaPipe skeletal tracking directly in the browser
-- 🧠 **Gemini LLM Integration** — Powers chatbot, meal plans, motivational quotes, and chart analytics
-- 🎨 **Premium Dark UI** — Glassmorphic cards, gradient accents, micro-animations
-- 🔄 **Graceful Fallbacks** — Every AI feature defaults to curated mock data when API quota is exhausted
-- 📱 **Fully Responsive** — Works seamlessly on desktop, tablet, and mobile
-- 🗄️ **Persistent Storage** — All workouts, habits, and chat history saved to MySQL
+- **Autonomous AI Fitness Agent** — Tracks, counts, and grades exercises without manual input
+-  **Real-time Computer Vision** — MediaPipe skeletal tracking directly in the browser
+-  **Gemini LLM Integration** — Powers chatbot, meal plans, motivational quotes, and chart analytics
+-  **Premium Dark UI** — Glassmorphic cards, gradient accents, micro-animations
+-  **Graceful Fallbacks** — Every AI feature defaults to curated mock data when API quota is exhausted
+-  **Fully Responsive** — Works seamlessly on desktop, tablet, and mobile
+-  **Persistent Storage** — All workouts, habits, and chat history saved to MySQL
 
 ---
 
 ## 📈 Future Scope
 
-- 🏃 Multi-exercise Support (Push-ups, Lunges, Planks)
-- 📹 Workout Session Recording & Playback
-- 🏢 Google Places API Gym Finder Integration
-- 👥 Multi-user Authentication (JWT)
-- ☁️ Cloud Database Synchronization
-- 📱 Mobile App (React Native)
-- 📊 Weekly/Monthly Progress Reports (PDF Export)
-- 🏆 Gamification & Achievement Badges
+-  Multi-exercise Support (Push-ups, Lunges, Planks)
+-  Workout Session Recording & Playback
+-  Google Places API Gym Finder Integration
+-  Multi-user Authentication (JWT)
+-  Cloud Database Synchronization
+-  Mobile App (React Native)
+-  Weekly/Monthly Progress Reports (PDF Export)
+-  Gamification & Achievement Badges
 
 ---
 
 ## 📷 Screenshots
 
 ### Dashboard
-<!-- Add your screenshot here -->
-![Dashboard](./assets/screenshots/dashboard.png)
+
+![Dashboard](<img width="1917" height="868" alt="Screenshot 2026-06-29 165911" src="https://github.com/user-attachments/assets/a8741af2-cf2c-47b4-89b2-39ad57327dfe" />
+)
 
 ### AI Squat Trainer
-<!-- Add your screenshot here -->
-![AI Trainer](./assets/screenshots/squat_trainer.png)
+
+![AI Trainer](<img width="1912" height="865" alt="Screenshot 2026-06-29 170005" src="https://github.com/user-attachments/assets/6bac6e55-0950-4ae5-9896-d7e574daf8f1" />
+)
 
 ### AI Pose Analyzer
-<!-- Add your screenshot here -->
-![Pose Analyzer](./assets/screenshots/pose_analyzer.png)
+
+![Pose Analyzer](<img width="1916" height="871" alt="Screenshot 2026-06-29 170153" src="https://github.com/user-attachments/assets/bfb0a460-a1f5-4efb-8a4c-4444594491ee" />
+)
 
 ### AI Diet Coach & BMI Calculator
-<!-- Add your screenshot here -->
-![Diet Coach](./assets/screenshots/diet_coach.png)
 
+![Diet Coach](<img width="1917" height="872" alt="Screenshot 2026-06-29 170025" src="https://github.com/user-attachments/assets/a4beccc0-44d0-4d2a-8c17-814e31f11688" />
+)
 ### AI Fitness Chatbot
-<!-- Add your screenshot here -->
-![Chatbot](./assets/screenshots/chatbot.png)
+
+![Chatbot](<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/1ef81680-391c-4fae-a0ce-dd5dec58c805" />
+)
 
 ### Habit Tracker
-<!-- Add your screenshot here -->
-![Habit Tracker](./assets/screenshots/habit_tracker.png)
+
+![Habit Tracker](<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/fae3e31c-893b-46bb-b673-137d80fe5de4" />
+)
 
 ### Profile Management
-<!-- Add your screenshot here -->
-![Profile Modal](./assets/screenshots/profile_modal.png)
+
+![Profile Modal](<img width="1900" height="857" alt="Screenshot 2026-06-29 165854" src="https://github.com/user-attachments/assets/838b877a-203d-4a91-ae9d-d11a65bdd10a" />
+)
 
 ---
 
@@ -212,18 +218,12 @@ MYSQL_DB=aigym
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-Open [http://localhost:5173/](http://localhost:5173/) in your browser.
 
 ---
 
-## 👨‍💻 Team
-
-**Team VICKY**
 
 - **Shabarish Kaluva**
-- **Ram Lekkala**
 
-📍 BVRIT
 
 ---
 
