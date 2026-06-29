@@ -1,0 +1,76 @@
+# ====================================================================
+# 🐍 Python / Backend (FastAPI)
+# ====================================================================
+# Python cache and byte-code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+pip-log.txt
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# ====================================================================
+# ⚡ Node.js / Frontend (Vite & React)
+# ====================================================================
+# Dependency directory
+frontend/node_modules/
+node_modules/
+
+# Production build outputs
+frontend/dist/
+frontend/dist-ssr/
+dist/
+
+# ====================================================================
+# 🔑 Secrets & Environment Variables
+# ====================================================================
+.env
+backend/.env
+frontend/.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# ====================================================================
+# 📊 Database & Log Files
+# ====================================================================
+*.db
+*.sqlite3
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ====================================================================
+# 💻 Operating System & IDE Editor Settings
+# ====================================================================
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs (VS Code, WebStorm, PyCharm)
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
