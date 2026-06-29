@@ -169,6 +169,9 @@ ai-fitness-coach/
 
 <img width="1916" height="871" alt="Screenshot 2026-06-29 170153" src="https://github.com/user-attachments/assets/bfb0a460-a1f5-4efb-8a4c-4444594491ee" />
 
+<img width="1917" height="816" alt="Screenshot 2026-06-29 181205" src="https://github.com/user-attachments/assets/88484a64-64bb-4c15-8bbb-e617a44a97ca" />
+
+
 
 ### AI Diet Coach & BMI Calculator
 
