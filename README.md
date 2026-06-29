@@ -171,8 +171,8 @@ Traditional fitness apps rely on **manual input** — users must count their own
 )
 ### AI Fitness Chatbot
 
-![Chatbot](<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/1ef81680-391c-4fae-a0ce-dd5dec58c805" />
-)
+![Chatbot]<img width="1917" height="868" alt="Screenshot 2026-06-29 170116" src="https://github.com/user-attachments/assets/1ef81680-391c-4fae-a0ce-dd5dec58c805" />
+
 
 ### Habit Tracker
 
